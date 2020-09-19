@@ -64,3 +64,20 @@ I worked on making the code design better and resolved any previous bugs. An upg
   
 <a name="designs"></a>
 ## Designs
+
+**Header**
+
+<img src="https://github.com/riyajaggi/task-reminders/blob/master/designs/title.png">
+
+**Completed**
+
+<img src="https://github.com/riyajaggi/task-reminders/blob/master/designs/complete.png">
+
+**Incompleted**
+
+<img src="https://github.com/riyajaggi/task-reminders/blob/master/designs/incomplete.png">
+
+**Overdue**
+
+<img src="https://github.com/riyajaggi/task-reminders/blob/master/designs/overdue.png">
+
